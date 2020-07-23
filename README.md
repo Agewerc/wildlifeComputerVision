@@ -1,10 +1,12 @@
 # Use of CNNs to identify Wildlife Animals
 
-## Step by Step
-`Step 1:` Import Libraries and Load the Dataset
-`Step 2:` Create a CNN to Classify Wild Animals (from Scratch)
-`Step 3:` Create a CNN to Classify Wild Animals (using Transfer Learning)
-`Step 4:` Test the model and create an Algorithm
+We make use of Convolutional Neural Networks to identify wildlife animals.  
+
+## Basic Steps
+`Step 1:` Import Libraries and Load the Dataset (Imagefolder,...,Loaders)<br>
+`Step 2:` Create a CNN to Classify Wild Animals (from Scratch)<br>
+`Step 3:` Create a CNN to Classify Wild Animals (using Transfer Learning)<br>
+`Step 4:` Find Results<br>
 
 ## Dataset
 
